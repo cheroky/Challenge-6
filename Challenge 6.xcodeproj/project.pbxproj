@@ -14,13 +14,13 @@
 		8845B60C18E8D11100DD03F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8845B60B18E8D11100DD03F4 /* main.m */; };
 		8845B61018E8D11100DD03F4 /* PBCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8845B60F18E8D11100DD03F4 /* PBCAppDelegate.m */; };
 		8845B61318E8D11100DD03F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8845B61118E8D11100DD03F4 /* Main.storyboard */; };
-		8845B61618E8D11100DD03F4 /* PBCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8845B61518E8D11100DD03F4 /* PBCViewController.m */; };
 		8845B61818E8D11100DD03F4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8845B61718E8D11100DD03F4 /* Images.xcassets */; };
 		8845B61F18E8D11100DD03F4 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8845B61E18E8D11100DD03F4 /* XCTest.framework */; };
 		8845B62018E8D11100DD03F4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8845B5FF18E8D11100DD03F4 /* Foundation.framework */; };
 		8845B62118E8D11100DD03F4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8845B60318E8D11100DD03F4 /* UIKit.framework */; };
 		8845B62918E8D11100DD03F4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8845B62718E8D11100DD03F4 /* InfoPlist.strings */; };
 		8845B62B18E8D11100DD03F4 /* Challenge_6Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8845B62A18E8D11100DD03F4 /* Challenge_6Tests.m */; };
+		8845B63618E8D12700DD03F4 /* PBCTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8845B63518E8D12700DD03F4 /* PBCTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,14 +45,14 @@
 		8845B60E18E8D11100DD03F4 /* PBCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PBCAppDelegate.h; sourceTree = "<group>"; };
 		8845B60F18E8D11100DD03F4 /* PBCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PBCAppDelegate.m; sourceTree = "<group>"; };
 		8845B61218E8D11100DD03F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8845B61418E8D11100DD03F4 /* PBCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PBCViewController.h; sourceTree = "<group>"; };
-		8845B61518E8D11100DD03F4 /* PBCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PBCViewController.m; sourceTree = "<group>"; };
 		8845B61718E8D11100DD03F4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		8845B61D18E8D11100DD03F4 /* Challenge 6Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Challenge 6Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8845B61E18E8D11100DD03F4 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		8845B62618E8D11100DD03F4 /* Challenge 6Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Challenge 6Tests-Info.plist"; sourceTree = "<group>"; };
 		8845B62818E8D11100DD03F4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8845B62A18E8D11100DD03F4 /* Challenge_6Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Challenge_6Tests.m; sourceTree = "<group>"; };
+		8845B63418E8D12700DD03F4 /* PBCTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PBCTableViewController.h; path = ../PBCTableViewController.h; sourceTree = "<group>"; };
+		8845B63518E8D12700DD03F4 /* PBCTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PBCTableViewController.m; path = ../PBCTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,9 +114,9 @@
 			children = (
 				8845B60E18E8D11100DD03F4 /* PBCAppDelegate.h */,
 				8845B60F18E8D11100DD03F4 /* PBCAppDelegate.m */,
+				8845B63418E8D12700DD03F4 /* PBCTableViewController.h */,
+				8845B63518E8D12700DD03F4 /* PBCTableViewController.m */,
 				8845B61118E8D11100DD03F4 /* Main.storyboard */,
-				8845B61418E8D11100DD03F4 /* PBCViewController.h */,
-				8845B61518E8D11100DD03F4 /* PBCViewController.m */,
 				8845B61718E8D11100DD03F4 /* Images.xcassets */,
 				8845B60618E8D11100DD03F4 /* Supporting Files */,
 			);
@@ -250,7 +250,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8845B61618E8D11100DD03F4 /* PBCViewController.m in Sources */,
+				8845B63618E8D12700DD03F4 /* PBCTableViewController.m in Sources */,
 				8845B61018E8D11100DD03F4 /* PBCAppDelegate.m in Sources */,
 				8845B60C18E8D11100DD03F4 /* main.m in Sources */,
 			);

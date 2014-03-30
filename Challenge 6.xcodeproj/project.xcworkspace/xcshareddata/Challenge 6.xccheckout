@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>74D9BFDE-431B-4BCF-9FBB-98332EB39002</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Challenge 6</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FDF312A9-E640-4028-A38E-1211EC5EB559</key>
+		<string>https://github.com/cheroky/Challenge-6.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Challenge 6.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FDF312A9-E640-4028-A38E-1211EC5EB559</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cheroky/Challenge-6.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FDF312A9-E640-4028-A38E-1211EC5EB559</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FDF312A9-E640-4028-A38E-1211EC5EB559</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Challenge 6</string>
+		</dict>
+	</array>
+</dict>
+</plist>
