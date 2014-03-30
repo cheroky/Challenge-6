@@ -1,5 +1,5 @@
 //
-//  PBCViewController.h
+//  PBCTableViewController.h
 //  Challenge 6
 //
 //  Created by Piero Castro on 3/30/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface PBCViewController : UIViewController
+@interface PBCTableViewController : UITableViewController
 
 @end
